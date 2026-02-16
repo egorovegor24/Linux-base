@@ -22,12 +22,12 @@ title: Fujitsu SP-1120
 
 3. Внесите данные в созданный вами файл используя текстовый редактор **nano**:\
    *Например для Fujitsu SP-1120:*\
-   \# Fujitsu ScanSnap SP-1120\
+   *\# Fujitsu ScanSnap SP-1120\
    ATTRS\{idVendor}=="04c5", \
    ATTRS\{idProduct}=="1473", \
    MODE="0664", \
    GROUP="scanner", \
-   ENV\{libsane_matched}="yes"
+   ENV\{libsane_matched}="yes"*
 
 4. Выполните перезагрузку правил **udev**, для этого выполните последовательно команды:\
    `sudo udevadm control —reload`\
@@ -54,12 +54,12 @@ title: Fujitsu SP-1120
 
 3. Внесите данные в созданный вами файл используя текстовый редактор **nano**:\
    *Например для Fujitsu SP-1120:*\
-   \# Fujitsu ScanSnap SP-1120\
+   *\# Fujitsu ScanSnap SP-1120\
    ATTRS\{idVendor}=="04c5", \
    ATTRS\{idProduct}=="1473", \
    MODE="0664", \
    GROUP="scanner", \
-   ENV\{libsane_matched}="yes"
+   ENV\{libsane_matched}="yes"*
 
 4. Выполните перезагрузку правил **udev**, для этого выполните последовательно команды:\
    `sudo udevadm control —reload`\
