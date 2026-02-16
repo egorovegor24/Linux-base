@@ -8,17 +8,17 @@ title: ПАМЯТКА ПО ПРИМЕНЕНИЮ ОС И ПО от 05.02.2026
 <tr>
 <td>
 
-<highlight color="ice-blue">№ п/п</highlight>
+№ п/п
 
 </td>
 <td>
 
-<highlight color="ice-blue">Мероприятие</highlight>
+Мероприятие
 
 </td>
 <td>
 
-<highlight color="ice-blue">Используемая ОС и ПО</highlight>
+Используемая ОС и ПО
 
 </td>
 </tr>
