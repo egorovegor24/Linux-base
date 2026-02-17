@@ -1,6 +1,6 @@
 ---
 order: 2.5
-title: Canon DR-C230
+title: Canon DR-C225
 ---
 
 ## **Для Альт Образование:**
