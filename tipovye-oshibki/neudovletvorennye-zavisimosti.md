@@ -7,29 +7,33 @@ title: Неудовлетворенные зависимости
 
 1. Уточните список неудовлетворенных зависимостей
 
-   {% table header="row" %}
+   <table header="row">
+   <colgroup><col width="365.5"/><col width="372"/></colgroup>
+   <tr>
+   <td align="center">
 
-   ---
+   GUI-интерфейс
 
-   *  {% colwidth=[365.5] align="center" %}
+   </td>
+   <td align="center">
 
-      GUI-интерфейс
+   Терминал
 
-   *  {% colwidth=[372] align="center" %}
+   </td>
+   </tr>
+   <tr>
+   <td align="center">
 
-      Терминал
+   <image src="./neudovletvorennye-zavisimosti.png" crop="41.13971177318869,24.637681159420293,32.57396533360981,39.46488294314381" width="1855px" height="1004px" float="center"/>
 
-   ---
+   </td>
+   <td align="center">
 
-   *  {% colwidth=[365.5] align="center" %}
+   <image src="./neudovletvorennye-zavisimosti-2.png" crop="1.4304455565813128,2.787068004459309,47.7644429328021,41.248606465997774" scale="100" width="2227px" height="1243px" float="center"/>
 
-      [image:./neudovletvorennye-zavisimosti.png:::41.13971177318869,24.637681159420293,32.57396533360981,39.46488294314381:::1855px:1004px:center]
-
-   *  {% colwidth=[372] align="center" %}
-
-      [image:./neudovletvorennye-zavisimosti-2.png:::1.4304455565813128,2.787068004459309,47.7644429328021,41.248606465997774:100::2227px:1243px:center]
-
-   {% /table %}
+   </td>
+   </tr>
+   </table>
 
 2. Уточните какие подключены репозитории. Направьте содержимое файла **sources.list**, для этого откройте его в текстовом редакторе **nano** командой: `sudo nano /etc/apt/sources.list`
 
@@ -38,6 +42,12 @@ title: Неудовлетворенные зависимости
    Для этого необходимо:
 
    1. Привести в соответствие файл sources.list, в файле должны быть указаны хотя бы два интернет-репозитория Astra Linux. Пример:
+
+      `#deb cdrom:[OS Astra Linux 1.8.4.48  1.8_x86-64 DVD ]/ 1.8_x86-64 contrib main non-free non-free-firmware`
+
+      `deb <https://download.astralinux.ru/astra/stable/1.8_x86-64/repository-main/> 1\.8_x86-64 main contrib non-free non-free-firmware`
+
+      `deb <https://download.astralinux.ru/astra/stable/1.8_x86-64/repository-extended/> 1\.8_x86-64 main contrib non-free non-free-firmware`
 
    2. Сохранить файл, для текстового редактора **nano** нажмите комбинацию клавиш: **ctrl + o**
 
