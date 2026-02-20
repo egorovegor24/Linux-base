@@ -20,5 +20,3 @@ title: Не удалось получить идентификатор ПК
    2. `sudo systemctl start gia11_cpd`  (данная команда запустит службу **gia11_cpd)**
 
    3. `sudo systemctl status gia11_cpd`  (данная команда отобразит текущий статус службы **gia11_cpd)**
-
-5.  
