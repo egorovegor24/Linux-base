@@ -3,7 +3,7 @@ order: 2
 title: Canon DR-C230
 ---
 
-## **Для Альт Образование:**
+**Для Альт Образование:**
 
 <highlight color="mint-green">***На данный момент решения нет***</highlight>
 
