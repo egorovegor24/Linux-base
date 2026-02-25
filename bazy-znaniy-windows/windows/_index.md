@@ -1,9 +1,7 @@
 ---
-order: 8
-title: Windows
+order: 10
+title: БЗ ЛК ППЭ
 ---
-
-## БЗ ЛК ППЭ
 
 <table header="row">
 <colgroup><col width="137"/><col width="156"/><col width="156"/><col width="670"/><col width="63"/></colgroup>
