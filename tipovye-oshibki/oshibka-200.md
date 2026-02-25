@@ -1,6 +1,6 @@
 ---
 order: 3
-title: Ошибка 200
+title: Ошибка 200 НЕ ИСПОЛЬЗОВАТЬ В ОТВЕТЕ
 ---
 
 <image src="./oshibka-200.png" crop="0,0,100,100" scale="100" width="1040px" height="815px" float="center"/>

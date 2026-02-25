@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Ошибка 106
+title: Ошибка 106 НЕ ИСПОЛЬЗОВАТЬ В ОТВЕТЕ
 ---
 
 ![](./oshibka-106.png){width=1500px height=823px}
