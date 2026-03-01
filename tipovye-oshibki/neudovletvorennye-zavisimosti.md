@@ -49,6 +49,8 @@ title: Неудовлетворенные зависимости
 
       `deb <https://download.astralinux.ru/astra/stable/1.8_x86-64/repository-extended/> 1\.8_x86-64 main contrib non-free non-free-firmware`
 
+      ![](./neudovletvorennye-zavisimosti-3.png){width=1346px height=756px}
+
    2. Сохранить файл, для текстового редактора **nano** нажмите комбинацию клавиш: **ctrl + o**
 
    3. Закройте файл, для текстового редактора **nano** нажмите комбинацию клавиш: **ctrl + x**
