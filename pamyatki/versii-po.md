@@ -97,3 +97,5 @@ title: "ПАМЯТКА по ОС и ПО "
 </td>
 </tr>
 </table>
+
+![](./versii-po.png){width=1482px height=832px}
